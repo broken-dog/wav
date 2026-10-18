@@ -1,5 +1,5 @@
 name: WorldAliasVariables
-version: 1.0.1
+version: '${version}'
 main: cn.ningmo.WorldAliasVariables
 api-version: '1.20'
 author: 柠枺
